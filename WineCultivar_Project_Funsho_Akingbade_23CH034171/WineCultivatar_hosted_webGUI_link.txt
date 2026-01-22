@@ -3,4 +3,5 @@ Matric Number: 23CH034171
 Machine Learning Algorithm Used: Random Forest Classifier
 Model Persistence Method Used: Joblib
 Live URL: 
-GitHub Repository Link: 
+GitHub Repository Link: https://github.com/Funsho-Akingbade/WineCultivar_Project_Funsho_Akingbade_23CH034171.git
+
